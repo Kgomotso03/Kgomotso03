@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kgomotso Theko
-- 👀 I’m interested in ...
+- 👀 I’m interested in gaining experience and learning new things 
 - 🌱 I’m currently learning Information technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kgomotsotheko24@gmail.com 0721418915
