@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Information technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:kgomotsotheko24@gmail.com
-- 0721418915
+- 📫 How to reach me kgomotsotheko24@gmail.com 0721418915
 
 <!---
 Kgomotso03/Kgomotso03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
